@@ -42,5 +42,5 @@ A real-time chat application built using Spring Boot, Java, WebSockets, Thymelea
 
 
 **_Contact Me_**
-> [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/jayachandran-s-in).
+> [LinkedIn](https://www.linkedin.com/in/jayachandran-s-in).
 
